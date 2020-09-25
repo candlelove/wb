@@ -1,2 +1,25 @@
 // Bootstrap
-@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap/scss/bootstrap";
+
+/* footer */
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777777;
+  font-size: 13px;
+  font-weight: bold;
+
+  a {
+    color: #555555;
+  }
+
+  a:hover {
+    color: #222222;
+  }
+
+  img.brand-icon {
+    width: 17px;
+    height: 17px;
+  }
+}
