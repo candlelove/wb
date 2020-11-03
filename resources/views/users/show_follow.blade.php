@@ -1,5 +1,5 @@
 @extends('layouts.default')
-@section('title',$title)
+@section('title', $title)
 
 @section('content')
 <div class="offset-md-2 col-md-8">
